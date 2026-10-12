@@ -503,7 +503,7 @@ flowchart LR
 | No | Use Case | Deskripsi |
 |---|---|---|
 | 1 | Lihat Landing Page | Melihat halaman utama publik |
-| 2 | Lihat Halaman About | Melihat informasi tentang sekolah |
+| 2 | Lihat Halaman About | Melihat informasi tentang sekolah |opn
 | 3 | Login | Mengakses halaman login |
 
 ---
